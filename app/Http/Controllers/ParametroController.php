@@ -23,7 +23,7 @@ class ParametroController extends Controller
      */
     public function create()
     {
-        //
+        return view('seguridad.parametros.create');
     }
 
     /**
